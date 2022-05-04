@@ -1,0 +1,29 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+click==8.0.4
+dataclasses==0.8
+Flask==2.0.3
+future==0.18.2
+gunicorn==20.0.4
+idna==3.3
+importlib-metadata==4.8.3
+itsdangerous==2.0.1
+Jinja2==3.0.3
+joblib==1.1.0
+MarkupSafe==2.0.1
+numpy==1.19.5
+pandas==1.1.5
+Pillow==8.4.0
+python-dateutil==2.8.2
+pytz==2022.1
+requests==2.27.1
+scikit-learn==0.24.2
+scipy==1.5.4
+six==1.16.0
+threadpoolctl==3.1.0
+torch @ https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+torchvision @ https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+typing_extensions==4.1.1
+urllib3==1.26.9
+Werkzeug==2.0.3
+zipp==3.6.0
